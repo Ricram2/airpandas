@@ -1,0 +1,3 @@
+## From an Airtable table to a pandas dataframe
+Remember to change the api_Key, base_key and table to your
+Copy the config_template.json file to config.json and change the values

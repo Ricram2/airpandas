@@ -1,0 +1,5 @@
+{
+    "api_key": "{your_api_key}",
+    "base_id": "{your_base_id}",
+    "table_name": "{your_table_name}"
+}
